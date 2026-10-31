@@ -83,7 +83,7 @@ A clean, responsive, and accessible institutional website for **Dayananda Sagar 
 ## 📁 Repository Structure
 
 ```text
-Web-Fundamental_Assignment-1/
+Web-Fundamentals/
 ├── index.html        # Main semantic HTML5 webpage
 ├── style.css         # Clean, responsive CSS3 stylesheet
 ├── README.md         # Comprehensive project documentation
@@ -116,8 +116,8 @@ Web-Fundamental_Assignment-1/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ayushpatil4437/Web-Fundamental_Assignment-1.git
-   cd Web-Fundamental_Assignment-1
+   git clone https://github.com/ayushpatil4437/Web-Fundamentals.git
+   cd Web-Fundamentals
    ```
 
 2. **Open in browser:**
@@ -131,4 +131,4 @@ Web-Fundamental_Assignment-1/
 - **Course:** Web Fundamentals
 - **Assignment:** Assignment 1 (HTML5 & CSS3)
 - **Year:** First Year B.E.
-- **Repository:** [ayushpatil4437/Web-Fundamental_Assignment-1](https://github.com/ayushpatil4437/Web-Fundamental_Assignment-1)
+- **Repository:** [ayushpatil4437/Web-Fundamentals](https://github.com/ayushpatil4437/Web-Fundamentals)
